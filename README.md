@@ -25,6 +25,12 @@ docs/
 ├── mq/                            # 消息队列
 │   ├── 13-kafka-scenarios.md      # Kafka 场景分析与使用
 │   └── 14-kafka-vs-pulsar.md      # Kafka vs Pulsar 对比
+├── k8s/                           # Kubernetes 容器编排
+│   ├── 16-k8s-architecture.md     # K8s 架构与核心概念
+│   ├── 17-k8s-workloads.md        # 工作负载与部署策略
+│   ├── 18-k8s-networking.md       # 网络与服务治理
+│   ├── 19-k8s-storage.md          # 存储与配置管理
+│   └── 20-k8s-ops.md              # 安全与运维实践
 └── ai/                            # 大模型与智能体
     └── 15-llm-agent-dev.md        # 大模型 MCP / Skills / 工作流 / 智能体开发
 ```
@@ -44,6 +50,7 @@ docs/
 | 数据库 | MySQL |
 | 缓存 | Redis |
 | 消息队列 | Kafka / Pulsar |
+| 容器编排 | Kubernetes |
 | AI 开发 | MCP Server / Agent |
 
 ## License
