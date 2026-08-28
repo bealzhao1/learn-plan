@@ -1,6 +1,6 @@
 # learn-plan
 
-后端技术学习路线文档，涵盖 Go 语言全栈、数据库、中间件、大模型开发等核心知识点。
+技术学习路线文档，涵盖 Go 语言全栈、前端 React、数据库、中间件、大模型开发等核心知识点。
 
 ## 目录结构
 
@@ -16,6 +16,13 @@ docs/
 ├── web/                           # Web 框架与设计模式
 │   ├── 07-gin-framework.md        # Gin Web 框架设计原理
 │   └── 08-design-patterns.md      # 设计模式的优点
+├── react/                         # React 前端
+│   ├── 21-react-core.md           # React 核心与渲染机制
+│   ├── 22-react-hooks.md          # Hooks 深入
+│   ├── 23-react-state.md          # 状态管理
+│   ├── 24-react-router-data.md    # 路由与数据请求
+│   ├── 25-react-performance.md    # 性能优化
+│   └── 26-react-ssr-nextjs.md     # SSR 与 Next.js
 ├── mysql/                         # MySQL 数据库
 │   ├── 09-mysql-index.md          # MySQL 索引
 │   └── 10-mysql-transaction.md    # MySQL 事务
@@ -46,6 +53,7 @@ docs/
 | 领域 | 技术 |
 |------|------|
 | 语言 | Go |
+| 前端 | React / Next.js |
 | Web 框架 | Gin |
 | 数据库 | MySQL |
 | 缓存 | Redis |
