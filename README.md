@@ -32,7 +32,8 @@ docs/
 ├── mq/                            # 消息队列
 │   ├── 13-kafka-scenarios.md      # Kafka 场景分析与使用
 │   ├── 14-kafka-vs-pulsar.md      # Kafka vs Pulsar 对比
-│   └── 29-mq-compensation.md      # 消息队列补偿机制
+│   ├── 29-mq-compensation.md      # 消息队列补偿机制
+│   └── 30-kafka-hw-mechanism.md   # Kafka HW 高水位机制
 ├── k8s/                           # Kubernetes 容器编排
 │   ├── 16-k8s-architecture.md     # K8s 架构与核心概念
 │   ├── 17-k8s-workloads.md        # 工作负载与部署策略
